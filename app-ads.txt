@@ -3,4 +3,5 @@ google.com, pub-3958123427481569, DIRECT, f08c47fec0942fa0   # MAXIMSENSEI
 google.com, pub-3958123427481569, DIRECT, f08c47fec0942fa0   # Bowlard
 google.com, pub-3958123427481569, DIRECT, f08c47fec0942fa0   # RoutePump
 google.com, pub-3958123427481569, DIRECT, f08c47fec0942fa0   # フリマ出品AI
+google.com, pub-3958123427481569, DIRECT, f08c47fec0942fa0   # 売れる返信AI
 
